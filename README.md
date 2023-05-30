@@ -28,9 +28,9 @@ The spatial data that I am using can be downloaded through https://gadm.org/data
 
 
 ### Connect with me 
-Email: datandang.work@gmail.com
-Viber/Phone Number: 09152964150
-Telegram: [nootherthandat@](https://t.me/nootherthandat)
+- Email: datandang.work@gmail.com
+- Viber/Phone Number: (+63)9152964150
+- Telegram: [nootherthandat@](https://t.me/nootherthandat)
 
 <!---
 nootherthandat/nootherthandat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
