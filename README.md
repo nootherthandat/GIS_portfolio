@@ -5,9 +5,6 @@ This portfolio can also be viewed by visiting:
 - [https://nootherthandat.github.io/GIS_portfolio/](https://nootherthandat.github.io/GIS_portfolio/)
 - [https://github.com/nootherthandat/GIS_portfolio](https://github.com/nootherthandat/GIS_portfolio)
 
-## About Me
-
-
 ### Jump to Section
 - [About open source](#about-open-source) 
 - [My work](#my-work)
