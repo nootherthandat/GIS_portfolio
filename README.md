@@ -11,13 +11,12 @@ This portfolio can also be viewed by visiting [https://nootherthandat.github.io/
 - [About open source](#about-open-source) 
 - [My work](#my-work)
 - [3D Map](#3d-map)
+- [Location Map](#location-map)
 
 
 ## About open source
-
 ### Where to download open source data?
 The spatial data that I am using can be downloaded through https://gadm.org/data.html. GADM data is now in version 4.1 that has more than 400,000 administrative areas. If you are looking for satellite images you may download your Area of Interest through EarthExplorer (usgs.gov).
-
 ### What are free and open source Geographic Information System (GIS) ?
 
 
@@ -28,7 +27,9 @@ The spatial data that I am using can be downloaded through https://gadm.org/data
 
 
 
-## Remote Sensing
+### Location Map
+![Map # 3](https://github.com/nootherthandat/GIS_portfolio/assets/127082034/f903b4a7-37a6-4523-b5a6-69526383fb68)
+
 
 
 <!---
