@@ -21,14 +21,16 @@ The spatial data that I am using can be downloaded through https://gadm.org/data
 ## My work
 
 ### 3D Map
-![3D Map # 1](https://github.com/nootherthandat/nootherthandat/assets/127082034/ea578e7f-ea13-4db7-9bba-60452dadcff0)
-
-
+![3D Map # 1](https://github.com/nootherthandat/GIS_portfolio/assets/127082034/a764a321-483e-4b90-ad61-dee7b8272493)
 
 ### Location Map
 ![Map # 3](https://github.com/nootherthandat/GIS_portfolio/assets/127082034/f903b4a7-37a6-4523-b5a6-69526383fb68)
 
 
+### Connect with me 
+Email: datandang.work@gmail.com
+Viber/Phone Number: 09152964150
+Telegram: [nootherthandat@](https://t.me/nootherthandat)
 
 <!---
 nootherthandat/nootherthandat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
