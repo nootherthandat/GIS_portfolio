@@ -13,8 +13,13 @@ This portfolio can also be viewed by visiting:
 
 
 ## About open source
-### Where to download open source data?
-The spatial data that I am using can be downloaded through https://gadm.org/data.html. GADM data is now in version 4.1 that has more than 400,000 administrative areas. If you are looking for satellite images you may download your Area of Interest through EarthExplorer (usgs.gov).
+### Open source data
+Open-source data is accessible to anyone and everyone, which means there are no restrictions. Many individuals contribute data in public platforms because we want to increase engagement with the market and community and, of course, increase transparency that makes a better world. I will share some knowledge about where you can download the world's administrative areas, satellite images, and the Philippines' spatial information.
+
+One of the spatial data I often use can be downloaded through [https://gadm.org/data.html](https://gadm.org/data.html). The **Global Administrative area database (GADM)** is now in version 4.1, with over 400,000 administrative areas. As you explore the website, you can see different file formats where the user can find geopackage, shapefile, Google Earth.kmz, and GeoJSON.json. In the country's shapefile, you may see level-0 for National, level 1 for State/province/equivalent, level 2 for county/district/equivalent, and level 3 or 4 for smaller areas.
+
+If you are looking for satellite images, you may download your Area of Interest through EarthExplorer (usgs.gov).
+
 ### What are free and open source Geographic Information System (GIS) ?
 
 
