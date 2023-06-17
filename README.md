@@ -18,7 +18,7 @@ Open-source data is accessible to anyone and everyone, which means there are no 
 
 One of the spatial data I often use can be downloaded through [https://gadm.org/data.html](https://gadm.org/data.html). The **Global Administrative area database (GADM)** is now in version 4.1, with over 400,000 administrative areas. As you explore the website, you can see different file formats where the user can find geopackage, shapefile, Google Earth.kmz, and GeoJSON.json. In the country's shapefile, you may see level-0 for National, level 1 for State/province/equivalent, level 2 for county/district/equivalent, and level 3 or 4 for smaller areas.
 
-If you want to explore remote sensing data, you may go to [https://scihub.copernicus.eu/dhus/#/home](https://scihub.copernicus.eu/dhus/#/home). The **Copernicus Open Access Hub ** is an open access where you can download Sentinel-1, Sentinel-2, Sentinel-3, and Sentinel-5P user products. Consider signing up before selecting an area where you want to look for available datasets.
+If you want to explore remote sensing data, you may go to [https://scihub.copernicus.eu/dhus/#/home](https://scihub.copernicus.eu/dhus/#/home). The **Copernicus Open Access Hub** is an open access where you can download Sentinel-1, Sentinel-2, Sentinel-3, and Sentinel-5P user products. Consider signing up before selecting an area where you want to look for available datasets.
 
 
 
