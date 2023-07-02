@@ -29,12 +29,17 @@ QGIS, Blender, SNAP, Google Earth
 ### 3D Map
 ![3D Map # 1](https://github.com/nootherthandat/GIS_portfolio/assets/127082034/a764a321-483e-4b90-ad61-dee7b8272493)
 
+
 ### Philippines: Rice Production by Region
 ![Rice Production by Region](https://github.com/nootherthandat/GIS_portfolio/assets/127082034/2174a913-216a-45d9-9803-d10eb4946d7a)
 
+
+### Provincial Local Government Unit of Ifugao
+![TANDANG_LGU_LocationMap](https://github.com/nootherthandat/GIS_portfolio/assets/127082034/f0f9b68a-8ca5-4697-be44-28513ee212f6)
+
+
 ### Location Map
 ![Map # 3](https://github.com/nootherthandat/GIS_portfolio/assets/127082034/f903b4a7-37a6-4523-b5a6-69526383fb68)
-
 
 ### Connect with me 
 - Email: datandang.work@gmail.com
