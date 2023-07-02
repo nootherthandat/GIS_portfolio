@@ -20,8 +20,12 @@ One of the spatial data I often use can be downloaded through [https://gadm.org/
 
 If you want to explore remote sensing data, you may go to [https://scihub.copernicus.eu/dhus/#/home](https://scihub.copernicus.eu/dhus/#/home). The **Copernicus Open Access Hub** is an open access where you can download Sentinel-1, Sentinel-2, Sentinel-3, and Sentinel-5P user products. Consider signing up before selecting an area where you want to look for available datasets.
 
-### Free and open-source cross-platform
-QGIS, Blender, SNAP, Google Earth
+### Free and open source software options
+- [QGIS](https://qgis.org/en/site/)
+- [SNAP](https://step.esa.int/main/download/snap-download/)
+- [QCAD](https://qcad.org/en/)
+- [Blender](https://www.blender.org/)
+- [Whitebox GAT](https://www.whiteboxgeo.com/geospatial-software/)
 
 
 ## My work
